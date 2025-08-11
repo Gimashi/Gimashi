@@ -21,7 +21,7 @@
 <!-- About Section -->
 <table>
 <tr>
-<td width="50%">
+<td width="45%">
 
 ## 👸 About Me
 Hey! I'm **Gimashi**, your friendly neighborhood cyber princess from Sri Lanka 🇱🇰
@@ -32,8 +32,11 @@ Hey! I'm **Gimashi**, your friendly neighborhood cyber princess from Sri Lanka �
 - 📚 **Always learning** new security spells and techniques
 
 </td>
-<td width="50%">
+<td width="55%">
 
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Hacker Girl"/>
+  
 ```yaml
 princess_stats:
   level: "Expert Cyber Guardian"
@@ -43,6 +46,8 @@ princess_stats:
   current_quest: "Cloud Security Mastery"
   power_level: "Over 9000! ⚡"
 ```
+
+</div>
 
 </td>
 </tr>
