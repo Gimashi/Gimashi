@@ -70,7 +70,7 @@ princess_stats:
 ## 📊 Royal Statistics
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=synthwave&show_icons=true&hide_border=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=synthwave&layout=compact&hide_border=true" />
+
 
 </div>
 
